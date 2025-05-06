@@ -1,6 +1,6 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy MIguel Adrian.
 
-Soy un desarrollador web junior enfocado en el frontend con experiencia en tecnologías como:
+Soy un desarrollador web enfocado en el frontend con experiencia en tecnologías como:
 
 🛠️ **Tech Stack**: React · Next.js · Tailwind CSS · Nest.js · Stripe · TypeScript
 
