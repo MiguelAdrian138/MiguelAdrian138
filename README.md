@@ -7,7 +7,7 @@ Soy un desarrollador web junior enfocado en el frontend con experiencia en tecno
 🚀 **Proyecto destacado**:  
 🧘 Plataforma de gestión de gimnasio con dashboards personalizados, integración con Stripe y mapas interactivos con MapTiler.
 
-📫 **Contacto**: [[LinkedIn](https://www.linkedin.com/in/miguel-adrian-9365b9286/)]) | [Email](adrianmiguel138@gmail.com)
+📫 **Contacto**: [[LinkedIn](https://www.linkedin.com/in/miguel-adrian-9365b9286/)] | [Email](adrianmiguel138@gmail.com)
 
 ---
 
