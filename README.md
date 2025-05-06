@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Miguel Adrian.
 
-<!--
-**MiguelAdrian138/MiguelAdrian138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador web enfocado en el frontend con experiencia en tecnologías como:
 
-Here are some ideas to get you started:
+🛠️ **Tech Stack**: React · Next.js · Tailwind CSS · Nest.js · Stripe · TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Proyecto destacado**:  
+🧘 Plataforma de gestión de gimnasio con dashboards personalizados, integración con Stripe y mapas interactivos con MapTiler.
+
+📫 **Contacto**: [LinkedIn](https://www.linkedin.com/in/tuusuario) | [Email](mailto:tu@email.com)
+
+---
+
+💡 Siempre aprendiendo y listo para nuevos desafíos.
