@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy MIguel Adrian.
+# ¡Hola! 👋 Soy Miguel Adrian.
 
 Soy un desarrollador web enfocado en el frontend con experiencia en tecnologías como:
 
